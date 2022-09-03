@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master
 media_folder: ".vuepress/netlify/"
-public_folder: "../../"
+netlify_folder: "../../"
 display_url: https://dulcet-malasada-5e01a6.netlify.app
 collections:
   - name: pages
